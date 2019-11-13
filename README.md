@@ -12,4 +12,4 @@ Le programme est présenté ci-dessous :
 
 ## TP
 - Présenter l'usage des topic models pour partitionner les documents
-- Quelques expérimentation d'Active Learning
+- Quelques expérimentations d'Active Learning
