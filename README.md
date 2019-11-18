@@ -14,4 +14,4 @@ Le programme est présenté ci-dessous :
 - Présenter l'usage des topic models pour partitionner les documents
 - Quelques expérimentations d'Active Learning
 
-Tous les cours / TP sont présentés sous forme d'un notebook (.ipynb). Afin de lire ces fichiers .ipynb sur votre ordinateur, il est conseillé d'installer [https://www.anaconda.com/distribution/](anaconda).
+Tous les cours / TP sont présentés sous forme d'un notebook (.ipynb). Afin de lire et executer ces fichiers .ipynb sur votre ordinateur, il est conseillé d'installer la distribution [anaconda](https://www.anaconda.com/distribution/) qui comprend l'installation de : **python**, des **librairies** et de **jupyter**.
